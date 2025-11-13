@@ -69,22 +69,6 @@ https://thiago-pereira79.github.io/js-music-keyboard-virtual/
 
 ---
 
-## 📂 Estrutura do projeto
-
-Simulador de Piano
-├── src
-│   ├── scripts
-│   │   └── engine.js
-│   ├── styles
-│   │   ├── reset.css
-│   │   └── main.css
-│   └── tunes
-│       └── *.wav
-├── index.html
-└── README.md
-
----
-
 ## 🧾 Licença
 
 Este projeto está sob a licença **MIT** - sinta-se livre para estudar, adaptar ou evoluir.  
