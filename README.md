@@ -71,17 +71,17 @@ https://thiago-pereira79.github.io/js-music-keyboard-virtual/
 
 ## 📂 Estrutura do projeto
 
-📁 Simulador de Piano
-┣ 📁 src
-│ ┣ 📁 scripts
-│ │ ┗ engine.js
-│ ┣ 📁 styles
-│ │ ┣ reset.css
-│ │ ┗ main.css
-│ ┗ 📁 tunes
-│ ┗ *.wav
-┣ index.html
-┗ README.md
+Simulador de Piano
+├── src
+│   ├── scripts
+│   │   └── engine.js
+│   ├── styles
+│   │   ├── reset.css
+│   │   └── main.css
+│   └── tunes
+│       └── *.wav
+├── index.html
+└── README.md
 
 ---
 
